@@ -1,6 +1,10 @@
 # Documentação da API GEO_DB Cidade
 
-<div align="center"><img src="http://geodb-cities-api.wirefreethought.com/assets/images/logo.png"></div>
+<div align="center">
+
+![GeoDBlogo](http://geodb-cities-api.wirefreethought.com/assets/images/logo.png)
+
+</div>
 
 Licença da API: [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/) <br>
 Link da API: https://rapidapi.com/wirefreethought/api/geodb-cities <br>
@@ -26,20 +30,20 @@ Todos os endpoints da API (Excluindo especificações):
 - Find Countries
 - Find Places
 
-**Retornos de códigos:**
+Retornos de códigos:
 
 <div align="center">
-  
-200 (Success)- sucesso, retorna o JSON com as informações;
-  
+
 ![200](https://imgur.com/Tdo9Y6o.png)
 
-400 (Erro) - erro, retornando uma mensagem; 
-  
+200 (Success)- sucesso, retorna o JSON com as informações;
+
 ![400](https://imgur.com/Zt613zL.png)
 
-403 (forbidden) - erro, falha ao carregar 
-  
+400 (Erro) - erro, retornando uma mensagem;
+
 ![403](https://imgur.com/X9XI1ch.png)
+
+403 (forbidden) - erro, falha ao carregar
 
 </div>
