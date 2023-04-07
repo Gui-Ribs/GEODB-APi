@@ -25,10 +25,10 @@ Os endpoints que serão utilizados:
 
 Todos os endpoints da API (Excluindo especificações):
 
-- Find admin divisions
-- Find cities
-- Find Countries
-- Find Places
+- [Find admin divisions](https://github.com/Gui-Ribs/GEODB-APi/wiki/Find-admin-divisions)
+- [Find cities](https://github.com/Gui-Ribs/GEODB-APi/wiki/Find-cities)
+- [Find Countries](https://github.com/Gui-Ribs/GEODB-APi/wiki/Find-Countries)
+- [Find Places](https://github.com/Gui-Ribs/GEODB-APi/wiki/Find-Places)
 
 Retornos de códigos:
 
