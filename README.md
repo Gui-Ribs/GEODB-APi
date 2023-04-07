@@ -28,7 +28,7 @@ Todos os endpoints da API (Excluindo especificações):
 
 Retornos de códigos:
 
-<center> 
+<div align="center">
 
 ![200](https://imgur.com/Tdo9Y6o.png)
 
@@ -42,4 +42,4 @@ Retornos de códigos:
 
 403 (forbidden) - erro, falha ao carregar
 
-</center>
+</div>
