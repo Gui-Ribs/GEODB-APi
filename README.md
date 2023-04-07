@@ -23,7 +23,7 @@ Os endpoints que serão utilizados:
 - Encotre Países [`/geo/countries`](https://wft-geo-db.p.rapidapi.com/v1/geo/countries)
 - Encontre novas localizações [`/geo/places`](https://wft-geo-db.p.rapidapi.com/v1/geo/places)
 
-Todos os endpoints da API (Excluindo especificações):
+Todos os endpoints da API:
 
 - [Find admin divisions](https://github.com/Gui-Ribs/GEODB-APi/wiki/Find-admin-divisions)
 - [Find cities](https://github.com/Gui-Ribs/GEODB-APi/wiki/Find-cities)
