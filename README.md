@@ -26,7 +26,7 @@ Todos os endpoints da API (Excluindo especificações):
 - Find Countries
 - Find Places
 
-Retornos de códigos:
+**Retornos de códigos:**
 
 <div align="center">
 
