@@ -1,10 +1,6 @@
 # Documentação da API GEO_DB Cidade
 
-<center>
-
-![GeoDBlogo](http://geodb-cities-api.wirefreethought.com/assets/images/logo.png)
-
-</center>
+<center>![GeoDBlogo](http://geodb-cities-api.wirefreethought.com/assets/images/logo.png)</center>
 
 Licença da API: [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/) <br>
 Link da API: https://rapidapi.com/wirefreethought/api/geodb-cities <br>
