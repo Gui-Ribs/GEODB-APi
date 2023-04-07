@@ -29,17 +29,17 @@ Todos os endpoints da API (Excluindo especificações):
 **Retornos de códigos:**
 
 <div align="center">
-
+  
+200 (Success)- sucesso, retorna o JSON com as informações;
+  
 ![200](https://imgur.com/Tdo9Y6o.png)
 
-200 (Success)- sucesso, retorna o JSON com as informações;
-
+400 (Erro) - erro, retornando uma mensagem; 
+  
 ![400](https://imgur.com/Zt613zL.png)
 
-400 (Erro) - erro, retornando uma mensagem;
-
+403 (forbidden) - erro, falha ao carregar 
+  
 ![403](https://imgur.com/X9XI1ch.png)
-
-403 (forbidden) - erro, falha ao carregar
 
 </div>
